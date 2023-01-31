@@ -24,7 +24,7 @@
   .tw-followCard-avatar {
     width: 48px;
     height: 48px;
-    border-radius: 1000px;
+    border-radius: 100%;
   }
   
   .tw-followCard-button {
